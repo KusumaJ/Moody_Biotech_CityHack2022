@@ -1,9 +1,7 @@
 # CityHack22 Project Submission
 ## Project: Dream Logger
-<img src="../assets/img/LOGOS/logo1.png" width="200" alt="project_logo"/>
 
-< Replace the logo above with Your Project Logo >
-## Team: < Your Team Name >
+## Team: Moody
 ## Members
 - Jeeraphat Kledkruemas (Leader)
 - Patteera Supvithayanond
@@ -23,3 +21,4 @@
 
 ## Link
 - < 3 minute Youtube Video Link for Project Demo >
+- https://www.figma.com/proto/6RXpbaa2uhm7gPpeYwXw0F/CityHack-Dream-Looger-Mobile-UI?node-id=421%3A8962&scaling=min-zoom&page-id=421%3A8961&starting-point-node-id=421%3A8962
