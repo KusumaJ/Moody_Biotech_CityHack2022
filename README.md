@@ -27,5 +27,5 @@ The project aims to create an application that allows users to track and interpr
 2. Mobile Application Development
 
 ## Link
-- < 3 minute Youtube Video Link for Project Demo >
+- https://www.youtube.com/watch?v=FSwE-G--vhM&feature=youtu.be
 - https://www.figma.com/proto/6RXpbaa2uhm7gPpeYwXw0F/CityHack-Dream-Logger-Mobile-UI?node-id=421%3A9069&scaling=min-zoom&page-id=421%3A8961&starting-point-node-id=421%3A8962
